@@ -22,7 +22,8 @@ Welcome! This repository documents my personal journey, practice exercises, and 
 | Date | Topic | Category | Description |
 | :--- | :--- | :--- | :--- |
 | **2026-08-10** | Initial Setup | Setup | Workspace configured on Linux with SSH and initial repo structure. |
-| **2026-08-11** | Syntax & Semantics | Programming Fundamentals | Added code examples and personal notes explaining syntax vs semantics. |
+| **2026-08-11** | Syntax & Semantics | Programming Fundamentals | Added code examples and personal notes explaining syntax vs semantics. 
+| **2026-08-11** | Variables & Data Types | Programming Fundamentals | Added code exercises and personal notes on primitive vs composite data types in Python. ||
 
 ---
 
